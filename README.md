@@ -7,9 +7,9 @@
 
 [Facebook] (https://www.facebook.com/events/526818307723959/)
 
-[Instagram] (instagram.com/opendatapune)
+[Instagram] (https://www.instagram.com/opendatapune/)
 
-[Twitter] (twitter.com/opendatapune)
+[Twitter] (https://www.twitter.com/opendatapune)
 
 [Gmail] (opendatapune@gmail.com)
 
