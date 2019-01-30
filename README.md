@@ -5,12 +5,12 @@
 
 [Register here](https://tinyurl.com/coep2feb19)
 
-[Facebook] (https://www.facebook.com/events/526818307723959/)
+[Facebook](https://www.facebook.com/events/526818307723959/)
 
-[Instagram] (https://www.instagram.com/opendatapune/)
+[Instagram](https://www.instagram.com/opendatapune/)
 
-[Twitter] (https://www.twitter.com/opendatapune)
+[Twitter](https://www.twitter.com/opendatapune)
 
-[Gmail] (opendatapune@gmail.com)
+[Gmail](opendatapune@gmail.com)
 
 [See Tasks](https://github.com/opendatapune/Problem-Statements/wiki )  (still collecting!)
