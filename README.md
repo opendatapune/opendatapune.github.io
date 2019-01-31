@@ -17,4 +17,6 @@
 
 [Twitter](https://www.twitter.com/opendatapune)
 
-[Gmail](opendatapune@gmail.com)
+Official hashtags for the event: #opendatapune #hackathon
+
+Queries : Write to opendatapune [at] gmail.com
