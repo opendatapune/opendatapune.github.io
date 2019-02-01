@@ -76,4 +76,9 @@ jupyter notebook
 
 -----
 
+## Universal Note
+In case of problems, **improvise**.  
+Shift to another workstation, step out of lab with laptop to catch net signal, do something else, help someone else - make do and move forward.
+
+
 [see this page on github](https://github.com/opendatapune/opendatapune.github.io/blob/master/Instructions.md)
