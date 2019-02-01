@@ -14,7 +14,7 @@
 - Keep a lazy eye on the telegram group as well for announcements, but don't waste your time on it. We'll probably put the important announcements on the projector screen only.
 
 ### Step 2: Get busy
-- As a team, go through all your datasets and plan. You can step outside the lab if you want to plan loudly.
+- As a team, go through all your datasets and plan. You can step outside the lab if you want to plan loudly. (Shushh!)
 - **Parallel Processing** : If there is data cleaning AND analysis to be done (mostly the case), then work in parallel. Analysis people can take 10 rows, clean them quickly and start building their stuff, while data cleaning people work their way through the whole data.
 - Start with simple and work your way up.
 - Post questions at the issue if you get stuck. Keep the issue tab open and keep checking in to see if anyone's posted any useful updates.
