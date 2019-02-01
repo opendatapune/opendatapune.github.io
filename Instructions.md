@@ -5,7 +5,7 @@
 - In the registration form you have consented to being assigned to a team by the event's co-ordinators. Be ready for that. Our tasks are multi-layered, so we want to have heterogenous teams with different competencies.
 - Tasks are [defined at length here](https://github.com/opendatapune/Problem-Statements/wiki). At bottom of each task there is a link to an issue created for it. Over there your team lead can post about what you're doing. (be exact and descriptive! "We will do this" nahin chalega).
 - You can also browse through the tasks through the [issues section](https://github.com/opendatapune/Problem-Statements/issues) where we've tagged things as per their technical nature.
-- If lost, go to the **Control Desk** where organisers will tell you what to do.
+- If lost, go to the **Control Desk** where organisers will tell you what to do. But wait in queue because if you are lost then 10 others will also be just like you.
 - Keep a lazy eye on the telegram group as well for announcements, but don't waste your time on it. We'll probably put the important announcements on the projector screen only.
 
 ### Step 2: Get busy
