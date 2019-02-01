@@ -39,7 +39,7 @@ jupyter notebook
 ./refine -p 3300 -m 3000m
 # starts openrefine on port 3300, and using 3gb ram
 ```
-- Check out [their wiki for more](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions).
+- Check out [their wiki for more](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions), or see their videos on youtube. It's an awesome tool for data cleaning, use in conjunction with LibreOffice Calc.
 
 -----
 
