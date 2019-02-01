@@ -1,7 +1,7 @@
 ## Hackathon workflow
 
 ### Step 0: Zen mode
-- Put your mobile on silent. Shushh.
+- Put your mobile on silent. _Shushh_.
 - Repeat to self : All is well, All is well.
 
 ### Step 1: Get a task, join a team
@@ -14,13 +14,13 @@
 - Keep a lazy eye on the telegram group as well for announcements, but don't waste your time on it. We'll probably put the important announcements on the projector screen only.
 
 ### Step 2: Get busy
-- As a team, go through all your datasets and plan. You can step outside the lab if you want to plan loudly. (Shushh!)
+- As a team, go through all your datasets and plan. You can step outside the lab if you want to plan loudly. _(Shushh!)_
 - **Parallel Processing** : If there is data cleaning AND analysis to be done (mostly the case), then work in parallel. Analysis people can take 10 rows, clean them quickly and start building their stuff, while data cleaning people work their way through the whole data.
 - Start with simple and work your way up.
 - Post questions at the issue if you get stuck. Keep the issue tab open and keep checking in to see if anyone's posted any useful updates.
 
 ### Step 3: Yay we did something!
-- Pat yourselves on the back and give each other a silent high-five. (or step outside the lab if you want to celebrate loudly. Seriously, shushhh!)
+- Pat yourselves on the back and give each other a silent high-five. (or step outside the lab if you want to celebrate loudly. _Seriously, shushhh!_)
 - Write a `Readme.md` doc explaining what you've done and mention how you did it. (_No Submission without Documentation!_)
 - Take screenshots if needed, post them on imgur.com or google photos or whatever and put their links in.
 - Post your done work online in whichever way is most suitable : google drive, own server, email it in, own github repo - all mediums are welcome. At your task issue, post the link to your done work along with details of what you have done (team lead can post on behalf of team).
