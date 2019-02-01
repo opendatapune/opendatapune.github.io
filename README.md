@@ -20,3 +20,5 @@
 Official hashtags for the event: #opendatapune #hackathon
 
 Queries : Write to opendatapune [at] gmail.com
+
+[Instructions for Hackathon](Instructions.md)
