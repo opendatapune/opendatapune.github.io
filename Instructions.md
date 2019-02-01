@@ -21,7 +21,12 @@
 source ~/opendatapune/bin/activate
 ```
 - Now in that terminal you can install packages via `pip install package` - this wasn't possible in the default system environment. But we have most packages covered, so test first.
-- We advise you work with Jupyter Notebook, where documentation and code and output are all together in a browser window, and the visualizations are easily rendered. Type in `jupyter notebook` and in some time you'll see it open a tab in your browser. Create a new python3 notebook and you're all set!
+- We advise you work with Jupyter Notebook, where documentation and code and output are all together in a browser window, and the visualizations are easily rendered. Type in:  
+```
+jupyter notebook
+``` 
+- And in some time you'll see it open a tab in your browser. Create a new python3 notebook and you're all set!
+- To get out of the virtual environment, type : `deactivate` on the terminal
 
 ### Starting OpenRefine
 - In the `opendatapune` folder there should be an `openrefine` folder. Get your terminal path into it, and type:  
