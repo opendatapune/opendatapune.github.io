@@ -1,5 +1,9 @@
 ## Hackathon workflow
 
+### Step 0: Zen mode
+- Put your mobile on silent. Shushh.
+- Repeat to self : All is well, All is well.
+
 ### Step 1: Get a task
 - Decide (or be told) which task we're taking up, and sit together with your task-mates.
 - In the registration form you have consented to being assigned to a team by the event's co-ordinators. Be ready for that. Our tasks are multi-layered, so we want to have heterogenous teams with different competencies.
@@ -7,7 +11,6 @@
 - You can also browse through the tasks through the [issues section](https://github.com/opendatapune/Problem-Statements/issues) where we've tagged things as per their technical nature.
 - If lost, go to the **Control Desk** where organisers will tell you what to do. But wait in queue because if you are lost then 10 others will also be just like you.
 - Keep a lazy eye on the telegram group as well for announcements, but don't waste your time on it. We'll probably put the important announcements on the projector screen only.
-- Put your mobile on silent. Shushh.
 
 ### Step 2: Get busy
 - As a team, go through all your datasets and plan. You can step outside the lab if you want to plan loudly.
@@ -26,7 +29,7 @@
 - Give them some time to review. The tags assigned to the issue will be updated by the organisers if the work checks out.
 
 ### Step 4: Next level
-- Check out the task's wiki page again. We may have posted more things that can be done, also.
+- Check out the task's wiki page again. We may have posted more things that can be done while you were in Step 2 and 3.
 - Repeat from Step 2.
 
 ### Step 5: Ab kya karein / Kuch aur karna hai
