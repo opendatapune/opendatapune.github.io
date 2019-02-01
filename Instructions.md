@@ -29,12 +29,14 @@
 - Give them some time to review. The tags assigned to the issue will be updated by the organisers if the work checks out.
 
 ### Step 4: Next level
-- Check out the task's wiki page again. We may have posted more things that can be done while you were in Step 2 and 3.
+- Check out the task's wiki page again. 
+- We may have posted more things that can be done while you were in Step 2 and 3.
 - Repeat from Step 2.
 
-### Step 5: Ab kya karein / Kuch aur karna hai
+### Step 5: Ab kya karein / Kuch aur karna hai yaar
 - Approach the Control Desk.
 - They will probably send you to the Mapping track, unless you proactively offer to take up something interesting.
+- _Just FYI_, certificates will be given to those who have stuck around from 2pm till 6pm and have some proof of work to show.
 
 ------
 
