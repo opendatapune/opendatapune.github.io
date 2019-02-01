@@ -16,7 +16,7 @@
 
 ### Step 3: Yay we did something!
 - Pat yourselves on the back and give each other a silent high-five. (or step outside the lab if you want to celebrate loudly. Seriously, shushhh!)
-- Write a Readme.md doc explaining what you've done and mention how you did it. 
+- Write a `Readme.md` doc explaining what you've done and mention how you did it. (_No Submission without Documentation!_)
 - Take screenshots if needed, post them on imgur.com or google photos or whatever and put their links in.
 - Post your done work online in whichever way is most suitable : google drive, own server, email it in, own github repo - all mediums are welcome. At your task issue, post the link to your done work along with details of what you have done (team lead can post on behalf of team).
 - Put up code files also if any. `.ipynb` notebooks are readable on github.
