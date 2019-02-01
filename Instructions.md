@@ -23,11 +23,11 @@
 - Pat yourselves on the back and give each other a silent high-five. (or step outside the lab if you want to celebrate loudly. _Seriously, shushhh!_)
 - Write a `Readme.md` doc explaining what you've done and mention how you did it. (_No Submission without Documentation!_)
 - Take screenshots if needed, post them on imgur.com or google photos or whatever and put their links in.
-- Post your done work online in whichever way is most suitable : google drive, own server, email it in, own github repo - all mediums are welcome. At your task issue, post the link to your done work along with details of what you have done (team lead can post on behalf of team).
+- Post your done work online in whichever way is most suitable : google drive, own server, own github repo - all mediums are welcome. At your task issue, post the link to your done work along with details of what you have done (team lead can post on behalf of team).
 - Put up code files also if any. `.ipynb` notebooks are readable on github.
 - Go to the **Control Desk** to inform the organisers.
 - Take a selfie with your work and team and post in on social media with the hashtags : #opendatapune and #hackathon
-- Give them some time to review. The tags assigned to the issue will be updated by the organisers if the work checks out.
+- Give organisers some time to review your work. Confirmation or feedback will be posted to the issue by the organisers.
 
 ### Step 4: Next level
 - Check out the task's wiki page again. 
@@ -36,7 +36,7 @@
 
 ### Step 5: Ab kya karein / Kuch aur karna hai yaar
 - Approach the Control Desk.
-- They will probably send you to the Mapping track, unless you proactively offer to take up something interesting.
+- They will probably send you to the Mapping track, unless you proactively offer to take up something interesting. Remember the consent clause in registration form.
 - _Just FYI_, certificates will be given to those who have stuck around from 2pm till 6pm and have some proof of work to show.
 
 ------
