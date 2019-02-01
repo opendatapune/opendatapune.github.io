@@ -7,6 +7,7 @@
 - You can also browse through the tasks through the [issues section](https://github.com/opendatapune/Problem-Statements/issues) where we've tagged things as per their technical nature.
 - If lost, go to the **Control Desk** where organisers will tell you what to do. But wait in queue because if you are lost then 10 others will also be just like you.
 - Keep a lazy eye on the telegram group as well for announcements, but don't waste your time on it. We'll probably put the important announcements on the projector screen only.
+- Put your mobile on silent. Shushh.
 
 ### Step 2: Get busy
 - As a team, go through all your datasets and plan. You can step outside the lab if you want to plan loudly.
