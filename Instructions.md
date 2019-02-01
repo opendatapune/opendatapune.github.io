@@ -1,16 +1,41 @@
 ## Hackathon workflow
 
-- First, we decide which task we're taking up, and sit together with our task-mates.
-- In the registration form it is mentioned that you are consenting to being assigned to a team by the event's co-ordinators. So be ready for that. Our tasks are multi-layered, so we want to have heterogenous teams with different competencies.
-- Tasks are [defined at length here](https://github.com/opendatapune/Problem-Statements/wiki). At bottom of each task there is a link to the issue in the same repo created for it. Over there you can post that you are starting work on so and so aspect of this task (be precise!).
-- Even if others have posted, more people can still post.
-- Post questions if you get stuck at the same issue.
-- When your work is done, post it online in whichever way is most suitable, and post the link at the issue along with details of what you have done.
-- The tags assigned to the issue will be updated by the organisers if the work checks out.
+### Step 1: Get a task
+- Decide (or be told) which task we're taking up, and sit together with your task-mates.
+- In the registration form you have consented to being assigned to a team by the event's co-ordinators. Be ready for that. Our tasks are multi-layered, so we want to have heterogenous teams with different competencies.
+- Tasks are [defined at length here](https://github.com/opendatapune/Problem-Statements/wiki). At bottom of each task there is a link to the issue in the same repo created for it. Over there your team lead can post about what you're doing. (be exact! "We will do this" nahin chalega).
+- You can also browse through the tasks through the [issues section](https://github.com/opendatapune/Problem-Statements/issues) where we've tagged things as per their technical nature.
+- If lost, go to the **Control Desk** where organisers will tell you what to do.
+- Keep a lazy eye on the telegram group as well for announcements, but don't waste your time on it. We'll probably put the important announcements on the projector screen only.
 
+### Step 2: Get busy
+- As a team, go through all your datasets and plan. You can step outside the lab if you want to plan loudly.
+- **Parallel Processing** : If there is data cleaning AND analysis to be done (mostly the case), then work in parallel. Analysis people can take 10 rows, clean them quickly and start building their stuff, while data cleaning people work their way through the whole data.
+- Start with simple and work your way up.
+- Post questions at the issue if you get stuck. Keep the issue tab open and keep checking in to see if anyone's posted any useful updates.
 
-## Getting Started with lab's terminal
-- Start it up in ubuntu. (Prefer windows? You're on your own!) You should see a "opendatapune" zip file or folder in your home folder. If it's a zip file, extract it to home folder so that the path is ~/opendatapune
+### Step 3: We got something!
+- Pat yourselves on the back and give each other a silent high-five. (or step outside the lab if you want to celebrate loudly. Seriously, shushhh!)
+- Write a Readme.md doc explaining what you've done and mention how you did it. 
+- Take screenshots if needed, post them on imgur.com or google photos or whatever and put their links in.
+- Post your done work online in whichever way is most suitable : google drive, own server, email it in, own github repo - all mediums are welcome. At your task issue, post the link at the issue along with details of what you have done.
+- Put up code files also if any. .ipynb notebooks are readable on github.
+- Go to the Control Desk to inform the organisers.
+- Give them some time to review. The tags assigned to the issue will be updated by the organisers if the work checks out.
+
+### Step 4: Next level
+- Check out the task's wiki page again. We may have posted more things that can be done, also.
+- Repeat from Step 2.
+
+### Step 5: Ab kya karein / Kuch aur karna hai
+- Approach the Control Desk.
+- They will probably send you to the Mapping track, unless you offer to take up something interesting.
+
+------
+
+## Getting Started with lab's workstation
+- Start it up in ubuntu. (Prefer windows? Valid, but you're on your own.) 
+- You should see a "opendatapune" zip file or folder in your home folder. If it's a zip file, extract it to home folder so that the path is ~/opendatapune
 
 ### Getting the Internet working
 - If you're not from COEP, ask a COEP student on your team to put in their credentials to get the internet working.
