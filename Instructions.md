@@ -55,7 +55,7 @@ jupyter notebook
 - To get out of the virtual environment, type : `deactivate` on the terminal
 
 ### Starting OpenRefine
-- In the `opendatapune` folder there should be an `openrefine` folder. Get your terminal path into it, and type:  
+- In the `opendatapune` folder there should be an `openrefine` folder (or zip. Or [download it here](http://openrefine.org/)). Get your terminal path into it, and type:  
 ```
 ./refine
 ```
