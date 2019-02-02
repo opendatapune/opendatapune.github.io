@@ -1,6 +1,9 @@
 #### Link to PODP dataset is not working
 - Search by name, find what you need and move on
 
+#### What is this PODP
+- Short for Pune Open Data Portal. Website: http://opendata.punecorporation.org
+
 #### I don't think I have the skills to contribute anything here
 - Go to mapping team and let the kids teach you something by which you can contribute a LOT
 
