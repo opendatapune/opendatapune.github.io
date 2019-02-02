@@ -1,3 +1,5 @@
+[<- back to home page](https://opendatapune.github.io)
+
 ## Hackathon workflow
 
 ### Step 0: Zen mode
