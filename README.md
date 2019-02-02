@@ -1,6 +1,8 @@
 ## COEP Open Data Hackathon, 2 Feb 2019
 
-[Instructions for Hackathon](Instructions.md) | [Read Problem Statements](https://github.com/opendatapune/Problem-Statements/wiki) | [Participate](https://github.com/opendatapune/Problem-Statements/issues) 
+[Read Problem Statements](https://github.com/opendatapune/Problem-Statements/wiki) | [Participate](https://github.com/opendatapune/Problem-Statements/issues) 
+
+[Instructions for Hackathon](Instructions.md) | [FAQs](FAQs.md) | [QnA section](https://github.com/opendatapune/QnA/issues)
 
 Join us on social media! | [Facebook](https://www.facebook.com/events/526818307723959/) | [Instagram](https://www.instagram.com/opendatapune/) | [Twitter](https://www.twitter.com/opendatapune)
 
