@@ -18,4 +18,6 @@
 > But all my stuff is there..
 - Pen drive daalke nikaal. _Aage badho_
 
+#### I want to retain copyright over the code I make
+- Then you cannot participate in this event. We cannot verify any output you make without having the code also open. We're putting everything under open license, full crediting to makers is there.
 
