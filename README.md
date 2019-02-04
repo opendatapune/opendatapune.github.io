@@ -1,4 +1,6 @@
-## COEP Open Data Hackathon, 2 Feb 2019
+_Thanks for a wonderful evvent at COEP Open Data Hackathon, 2 Feb 2019_
+
+For participants on 2nd Feb : You have till 17 Feb to complete and submit your project.
 
 [Read Problem Statements](https://github.com/opendatapune/Problem-Statements/wiki) | [Participate](https://github.com/opendatapune/Problem-Statements/issues) 
 <br><br>
