@@ -1,4 +1,4 @@
-_Thanks for a wonderful evvent at COEP Open Data Hackathon, 2 Feb 2019_
+_Thanks for a wonderful event at COEP Open Data Hackathon, 2 Feb 2019_
 
 For participants on 2nd Feb : You have till 17 Feb to complete and submit your project.
 
@@ -10,7 +10,5 @@ Join us on social media! | [Facebook](https://www.facebook.com/events/5268183077
 <br><br>
 Official hashtags for the event: #opendatapune #hackathon
 
-![poster](coep2feb_v2.jpg)
-
-Queries : Write to opendatapune [at] gmail.com
+Write to opendatapune [at] gmail.com with subject "Subscribe" to be in loop for future activities.
 
